@@ -1,12 +1,14 @@
-# Hi, I'm [Your Name]! 👋
+# Hi, I'm Akash Samanta 👋
 
 ## About Me
 
-Java developer with [X] years of experience. Passionate about building scalable apps and learning new tech.
+Java developer🧑‍💻
+
+Passionate about building scalable apps and learning new tech.
 
 - 🌱 Learning: [New Skill/Technology]
 - 💬 Ask me about: Java, Spring Boot
-- 📫 Contact: [Your Email/LinkedIn/Website]
+- 📫 Contact: [akashsamanta730@gmail.com]
 
 ## Tech Stack
 
